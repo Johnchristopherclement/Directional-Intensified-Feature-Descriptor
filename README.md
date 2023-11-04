@@ -41,7 +41,7 @@ For evaluation of DITF Model we provided the Repeatability score validation.
 
 Contributors names and contact info
 
-ex. J.Christopher Clement
-ex. [@gmail.com]
+Name. J.Christopher Clement
+Email. [@gmail.com]
 
 
