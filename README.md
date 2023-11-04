@@ -23,8 +23,8 @@ To download and prepare the Oxford dataset, please use the link ([https://www.ro
 * Windows 10 or 11
 
 ### Installing
-
-* https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor.git
+Clone the repo
+* git clon https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor.git
 
 
 ### Executing program
