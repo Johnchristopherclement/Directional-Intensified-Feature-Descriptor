@@ -35,6 +35,10 @@ Execution of the model
 
 * How to run the program
 * run main.py
+
+```
+python main.py
+```
 ```
 Metrics
 ```
