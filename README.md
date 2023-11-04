@@ -18,13 +18,13 @@ To download and prepare the Oxford dataset, please use the link ([https://www.ro
 
 ### Dependencies
 
-* Install 
-* ex. Windows 10
+* Install numpy,matplotlib
+* Windows 10 or 11
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor.git
+
 
 ### Executing program
 
