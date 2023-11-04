@@ -18,7 +18,7 @@ conda activate Directionalintensifiedfeaturedescriptor
 To download and prepare the Oxford dataset, please use the link ([https://www.robots.ox.ac.uk/~vgg/research/affine/index.html]).
 
 ### Dependencies
-
+* python 3.10
 * Install numpy 1.19.2 ,matplotlib 3.5.3, opencv 4.8.1.78, scikitimage 0.19.3.
 * Windows and ubuntu
 
