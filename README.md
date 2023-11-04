@@ -1,6 +1,6 @@
 # Directional Intensified Feature Descriptor
 
-Feature descriptors encode necessary information into a series of numbers and act as a  numerical “fingerprint” that can be used to differentiate one feature from another. It is the fundamental to computer vision applications.
+Feature descriptors encode necessary information into a series of numbers and act as a  numerical “fingerprint” that can be used to differentiate one feature from another. It is the fundamental process of computer vision applications.
 
 ## Description
 
@@ -13,6 +13,7 @@ Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, yo
 ```shell
 conda env create -f Directional Intensified Feature Descriptor.yml
 conda activate Directionalintensifiedfeaturedescriptor
+
 ## Data
 To download and prepare the Oxford dataset, please use the link ([https://www.robots.ox.ac.uk/~vgg/research/affine/index.html]).
 
