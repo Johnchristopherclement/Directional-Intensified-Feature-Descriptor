@@ -19,12 +19,12 @@ To download and prepare the Oxford dataset, please use the link ([https://www.ro
 
 ### Dependencies
 
-* Install numpy,matplotlib
+* Install numpy,matplotlib, opencv
 * Windows 10 or 11
 
 ### Installing
 Clone the repo
-* git clon https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor.git
+* git clone https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor.git
 
 
 ### Executing program
@@ -41,7 +41,7 @@ For evaluation of DITF Model we provided the Repeatability score validation.
 
 Contributors names and contact info
 
-Name. J.Christopher Clement
+Name. Johnchristopherclement
 Email. [@gmail.com]
 
 
