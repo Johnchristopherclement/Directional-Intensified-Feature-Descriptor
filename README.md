@@ -13,26 +13,30 @@ Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, yo
 ```shell
 conda env create -f Directional Intensified Feature Descriptor.yml
 conda activate Directionalintensifiedfeaturedescriptor
-
+```
+Data and dependencies of our program
+```
 ## Data
 To download and prepare the Oxford dataset, please use the link ([https://www.robots.ox.ac.uk/~vgg/research/affine/index.html]).
 
 ### Dependencies
 * python 3.10
-* Install numpy 1.26.1 ,matplotlib 3.5.3, opencv 4.8.1.78, scikitimage 0.19.3.
+* Install numpy 1.26.1 ,matplotlib 3.8.1, opencv 4.8.1.78, scikitimage 0.22.0.
 * Windows and ubuntu
 
 ### Installing
 Clone the repo
 * git clone https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor.git
 
-
+```
+Execution of the model
+```
 ### Executing program
 
 * How to run the program
 * run main.py
 ```
-code blocks for commands
+Metrics
 ```
 ## 📊 Evaluation
 For evaluation of DITF Model we provided the Repeatability score validation.
