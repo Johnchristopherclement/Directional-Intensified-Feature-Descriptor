@@ -7,7 +7,12 @@ Feature descriptors encode necessary information into a series of numbers and ac
 Feature extraction of our model utilizes "Tri-ocular", "Bi-ocular", and "Dia-ocular" filter for the feature selection. Oxford dataset is used for the feature testing and validation. DITF Model improves the robustness of the model and hence it is proved in terms of Repeatability score.
 
 ## Getting Started
+## ⚙️ Setup
+Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, you can install dependencies with:
 
+```shell
+conda env create -f Directional Intensified Feature Descriptor.yml
+conda activate Directionalintensifiedfeaturedescriptor
 ### Dependencies
 
 * Install 
