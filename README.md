@@ -1,18 +1,19 @@
-# Directional Intensified 
+# Directional Intensified Feature Descriptor
 
-Simple overview of use/purpose.
+Feature descriptors encode necessary information into a series of numbers and act as a  numerical “fingerprint” that can be used to differentiate one feature from another. It is the fundamental to computer vision applications.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Feature extraction of our model utilizes "Tri-ocular", "Bi-ocular", and "Dia-ocular" filter for the feature selection. Oxford dataset is used for the feature testing and validation. DITF Model improves the robustness of the model and hence it is proved in terms of Repeatability score.
 
 ## Getting Started
 
 ### Dependencies
 
+* Install 
+* ex. Windows 10
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
-
 ### Installing
 
 * How/where to download your program
