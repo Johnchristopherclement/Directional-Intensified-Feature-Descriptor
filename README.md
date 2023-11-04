@@ -30,7 +30,7 @@ Clone the repo
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* run main.py
 ```
 code blocks for commands
 ```
