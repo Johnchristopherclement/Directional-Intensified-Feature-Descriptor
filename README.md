@@ -19,7 +19,7 @@ To download and prepare the Oxford dataset, please use the link ([https://www.ro
 
 ### Dependencies
 
-* Install numpy,matplotlib, opencv
+* Install numpy 1.19.2 ,matplotlib 3.5.3, opencv 4.8.1.78, scikitimage 0.19.3.
 * Windows 10 or 11
 
 ### Installing
