@@ -34,7 +34,11 @@ Execution of the model
 ### Executing program
 
 * How to run the program
-* run python main.py 
+* run python main.py
+![Light_invariation](https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor/assets/149781818/0a1bc060-75dc-4da4-a9eb-5f7b63d8d12c)
+![Blur_invariation](https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor/assets/149781818/c325bbbe-5c02-4a1d-ba09-007f49e1a494)
+![Rotation_invariation](https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor/assets/149781818/4a04f74b-9a8d-4d9b-9cdb-2b51dc9dc556)
+
 
 ```
 Metrics
