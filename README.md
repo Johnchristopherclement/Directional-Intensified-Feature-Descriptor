@@ -38,7 +38,9 @@ Execution of the model
 ![Light_invariation](https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor/assets/149781818/b23e26f5-c3af-4b97-9bc5-1fe13596e57e)
 ![Rotation_invariation](https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor/assets/149781818/16e9ecee-3e09-424e-bf1d-c1b9808c592f)
 ![Blur_invariation](https://github.com/Johnchristopherclement/Directional-Intensified-Feature-Descriptor/assets/149781818/d5d43f2d-f059-4e2b-bd99-5584b1732d0d)
-![Example render](inference/example_render.gif)
+## 🖼️ Compositing
+
+![Example render](Rotation_invariation.jpeg)
 
 
 ```
