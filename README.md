@@ -50,10 +50,29 @@ Metrics
 For evaluation of DITF Model we provided the Repeatability score validation.
 
 ## Authors
-
 Contributors names and contact info
 
 Name. Johnchristopherclement
 Email. [@gmail.com]
+
+## 📜 BibTeX
+
+If you find our work is useful please cite our paper:
+
+```TY  - JOUR
+AU  - S, Indhumathi.
+AU  - Clement, J. Christopher
+PY  - 2023
+DA  - 2023/11/20
+TI  - Directional intensified feature description using tertiary filtering for augmented reality tracking
+JO  - Scientific Reports
+SP  - 20311
+VL  - 13
+IS  - 1
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-46643-6
+DO  - 10.1038/s41598-023-46643-6
+ID  - S2023
+```
 
 
